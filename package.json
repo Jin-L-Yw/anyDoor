@@ -1,0 +1,35 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny Node Js Static Web Sever",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "pre-commit": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "fix": "eslint --fix ."
+  },
+  "pre-commit": [
+    "fix",
+    "lint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jin-L-Yw/anyDoor.git"
+  },
+  "keywords": [
+    "Ynf@163.com"
+  ],
+  "author": "Jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jin-L-Yw/anyDoor/issues"
+  },
+  "homepage": "https://github.com/Jin-L-Yw/anyDoor#readme"
+}

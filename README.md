@@ -1,2 +1,4 @@
 # anyDoor
-Tiny Node Js static Web Sever
+Tiny Node Js Static Web Sever
+
+## 使用方法
