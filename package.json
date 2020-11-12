@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Tiny Node Js Static Web Sever",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "handlebars": "^4.7.6"
+  },
   "devDependencies": {
     "eslint": "^7.13.0",
     "eslint-config-airbnb-base": "^14.2.1",
